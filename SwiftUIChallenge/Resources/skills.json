@@ -1,0 +1,104 @@
+[
+    {
+        "id": 0,
+        "name": "Swift",
+        "rate": 4,
+        "category": "Apple"
+    },
+    {
+        "id": 1,
+        "name": "SwiftUI",
+        "rate": 3,
+        "category": "Apple"
+    },
+    {
+        "id": 2,
+        "name": "ObjectiveC",
+        "rate": 2,
+        "category": "Apple"
+    },
+    {
+        "id": 3,
+        "name": "UIKit",
+        "rate": 4,
+        "category": "Frameworks"
+    },
+    {
+        "id": 4,
+        "name": "Storyboards and Xibs",
+        "rate": 4,
+        "category": "Frameworks"
+    },
+    {
+        "id": 5,
+        "name": "XML/JSON",
+        "rate": 4,
+        "category": "Other"
+    },
+    {
+        "id": 6,
+        "name": "MySQL",
+        "rate": 3,
+        "category": "Other"
+    },
+    {
+        "id": 7,
+        "name": "Push Notifications",
+        "rate": 3,
+        "category": "Frameworks"
+    },
+    {
+        "id": 8,
+        "name": "MapKit",
+        "rate": 3,
+        "category": "Frameworks"
+    },
+    {
+        "id": 9,
+        "name": "Core Data",
+        "rate": 2,
+        "category": "Frameworks"
+    },
+    {
+        "id": 10,
+        "name": "Combine",
+        "rate": 2,
+        "category": "Frameworks"
+    },
+    {
+        "id": 11,
+        "name": "Design Patterns",
+        "rate": 3,
+        "category": "Apple"
+    },
+    {
+        "id": 12,
+        "name": "XCode",
+        "rate": 4,
+        "category": "Apple"
+    },
+    {
+        "id": 13,
+        "name": "Postman",
+        "rate": 4,
+        "category": "Other"
+    },
+    {
+        "id": 14,
+        "name": "Jira",
+        "rate": 4,
+        "category": "Other"
+    },
+    {
+        "id": 15,
+        "name": "Scrum",
+        "rate": 4,
+        "category": "Other"
+    },
+    {
+        "id": 16,
+        "name": "Git",
+        "rate": 4,
+        "category": "Other"
+    }
+]
